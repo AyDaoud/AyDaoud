@@ -48,7 +48,6 @@
 </p>
 
 <br>
-## ⚙️ Github Analytics
 
 <p align="center">
     <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyDaoud&layout=compact&theme=light&bg_color=CCEEFF" alt="Top Languages" />
