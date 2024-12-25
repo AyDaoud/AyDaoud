@@ -46,9 +46,13 @@
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
-<br>
 
-<p align="center">
+
+ <p>
+	 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
+ </p>
+
+
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyDaoud&layout=compact&theme=light&bg_color=CCEEFF" alt="Top Languages" />
 </p>
 
