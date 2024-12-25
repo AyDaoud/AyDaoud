@@ -47,9 +47,8 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
+<br>
 ## ⚙️ Github Analytics
-
- <br>
 
 <p align="center">
     <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyDaoud&layout=compact&theme=light&bg_color=CCEEFF" alt="Top Languages" />
