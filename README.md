@@ -17,7 +17,6 @@
 
 ## ⚡ Technologies
 
-
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib">
@@ -35,6 +34,7 @@
    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
    <img src="https://img.shields.io/badge/JAX-684EA6?style=for-the-badge&logo=jax&logoColor=white" alt="JAX">
 </p>
+<br>
 
 
 ## 🧰 Languages and Tools
@@ -49,11 +49,13 @@
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
 </p>
+<br>
 
 ## ⚙️ Github Analytics
 
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyDaoud&layout=compact&theme=light&bg_color=CCEEFF" alt="Top Languages" />
 </p>
+<br>
 
 
