@@ -15,19 +15,24 @@
 
 ## ⚡ Technologies
 
-[![Python](https://img.shields.io/badge/Python-blue)](#)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-lightgrey)](#)
-[![Keras](https://img.shields.io/badge/Keras-red)](#)
-[![Plotly](https://img.shields.io/badge/Plotly-lightblue)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-teal)](#)
-[![MLflow](https://img.shields.io/badge/MLflow-lightgreen)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-darkblue)](#)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)](#)
-[![SciPy](https://img.shields.io/badge/SciPy-blue)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-red)](#)
-[![OpenCV](https://img.shields.io/badge/OpenCV-brightgreen)](#)
-[![JAX](https://img.shields.io/badge/JAX-gold)](#)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/Plotly-3776AB?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/MLFlow-A5D6A7?style=for-the-badge&logo=MLflow&logoColor=white" alt="MLFlow">
+     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <br>
+    <img src="https://img.shields.io/badge/Scikit_Learn-F78237?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+     <img src="https://img.shields.io/badge/Tensorflow-F78237?style=for-the-badge&logo=Tensorflow&logoColor=white" alt="Tensorflow">
+    <img src="https://img.shields.io/badge/Scipy-1565C0?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/OpenCV-64DD17?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/JAX-684EA6?style=for-the-badge&logo=jax&logoColor=white" alt="JAX">
+</p>
 
 
 ## 🧰 Languages and Tools
