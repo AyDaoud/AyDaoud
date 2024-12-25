@@ -48,15 +48,11 @@
 </p>
 
 
-<p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=AyDaoud&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyDaoud&layout=compact&theme=dark" alt="Top Languages" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyDaoud&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=AyDaoud&theme=dark" alt="WakaTime" />
-</p>
+
 
