@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I am Aymen
 
-- 💻 Master Student at ETS
+- 💻 PhD Student at ETS
 - 📊 Enthusiastic for data-driven application development
 - 🎓 École Polytechnique de Tunisie Graduate
 
